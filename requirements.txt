@@ -1,0 +1,6 @@
+streamlit>=1.36.0
+langchain>=0.2.12
+langchain-openai>=0.1.17
+langchain-community>=0.2.12
+tavily-python>=0.3.5
+python-dotenv>=1.0.1
